@@ -2,7 +2,6 @@
 """ CODDED BY ShuBhamg0sain"""
 import os,sys,time,json
 try:
-   important os
 
 	import requests
 except Exception as E:
